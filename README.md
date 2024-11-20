@@ -16,17 +16,18 @@ Descriptive and predictive analytics were used to determine GE employee attritio
 Construct a database based on corporate background and organization, analysis, design, database management system, data model, law, ethics, and security. Designed a full database custom-made to the mock company’s requirements.<br><br>
 <I>Enterprise Data Management Architecture and Implementation Plan:</i><br>
 Examined the issues in managing data and information from an enterprise perspective. Explored data management using concepts and techniques for managing the design, development, and maintenance of all the components of enterprise information management. Constructed an EDM architecture and an execution plan.<br><br>
+
 <b>Professional Experience</b><br><br>
-Data Entry Pharmacy Technician, PillPack, Manchester, NH  | January 2021-January 2022<br>
-Pharmacy Technician, Elliot Health Systems, Manchester, NH | November 2018-January 2022<br>
-Pharmacy Technician, Cheshire Medical Center, Keene, NH | April 2016-November 2018<br>
-Pharmacy Technician, Concord Hospital, Concord, NH | November 2014-April 2016<br>
-Oncology Pharmacy Technician, Norris Cotton Cancer Center, Keene, NH | March 2011-October 2014<br>
-Pharmacy Technician, Dartmouth Medical Center, Lebanon, NH | January 2008-March 2011<br><br>
+Data Entry Pharmacy Technician, PillPack, Manchester, NH<br>January 2021-January 2022<br><br>
+Pharmacy Technician, Elliot Health Systems, Manchester, NH<br> November 2018-January 2022<br><br>
+Pharmacy Technician, Cheshire Medical Center, Keene, NH<br> April 2016-November 2018<br><br>
+Pharmacy Technician, Concord Hospital, Concord, NH<br> November 2014-April 2016<br><br>
+Oncology Pharmacy Technician, Norris Cotton Cancer Center, Keene, NH<br> March 2011-October 2014<br><br>
+Pharmacy Technician, Dartmouth Medical Center, Lebanon, NH<br> January 2008-March 2011<br><br><br>
 
 <b>Education</b><br><br>
-Master of Science in Data Analytics | Southern New Hampshire University, Manchester, NH<br>
-Bachelor of Science in Advertising | Emerson College, Boston, MA<br>
-Associate of Arts in Communications | Bristol Community College, Fall River, MA<br>
-Associate of Arts in Art | Bristol Community College, Fall River, MA<br>
+Master of Science in Data Analytics<br> Southern New Hampshire University, Manchester, NH<br><br>
+Bachelor of Science in Advertising<br> Emerson College, Boston, MA<br><br>
+Associate of Arts in Communications<br> Bristol Community College, Fall River, MA<br><br>
+Associate of Arts in Art<br> Bristol Community College, Fall River, MA<br><br>
 
