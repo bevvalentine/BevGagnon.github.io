@@ -17,6 +17,15 @@ Construct a database based on corporate background and organization, analysis, d
 <I>Enterprise Data Management Architecture and Implementation Plan:</i><br>
 Examined the issues in managing data and information from an enterprise perspective. Explored data management using concepts and techniques for managing the design, development, and maintenance of all the components of enterprise information management. Constructed an EDM architecture and an execution plan.<br><br>
 
+<b>Education</b><br><br>
+Master of Science in Data Analytics<br> Southern New Hampshire University, Manchester, NH<br><br>
+Bachelor of Science in Advertising<br> Emerson College, Boston, MA<br><br>
+Associate of Arts in Communications<br> Bristol Community College, Fall River, MA<br><br>
+Associate of Arts in Art<br> Bristol Community College, Fall River, MA<br><br><br>
+
+<b>Skills</b><br>
+EPIC (Hyperspace & Willow) | REDCap (Data Management for Clinical Research) | Excel (Adv.) | Tableau | SQL | Python | Looker/Snowflake | Rattle (R) | Power BI | Visio | MS Office<br><br>
+
 <b>Professional Experience</b><br><br>
 Data Entry Pharmacy Technician, PillPack, Manchester, NH<br>January 2021-January 2022<br><br>
 Pharmacy Technician, Elliot Health Systems, Manchester, NH<br> November 2018-January 2022<br><br>
@@ -24,10 +33,4 @@ Pharmacy Technician, Cheshire Medical Center, Keene, NH<br> April 2016-November 
 Pharmacy Technician, Concord Hospital, Concord, NH<br> November 2014-April 2016<br><br>
 Oncology Pharmacy Technician, Norris Cotton Cancer Center, Keene, NH<br> March 2011-October 2014<br><br>
 Pharmacy Technician, Dartmouth Medical Center, Lebanon, NH<br> January 2008-March 2011<br><br><br>
-
-<b>Education</b><br><br>
-Master of Science in Data Analytics<br> Southern New Hampshire University, Manchester, NH<br><br>
-Bachelor of Science in Advertising<br> Emerson College, Boston, MA<br><br>
-Associate of Arts in Communications<br> Bristol Community College, Fall River, MA<br><br>
-Associate of Arts in Art<br> Bristol Community College, Fall River, MA<br><br>
 
