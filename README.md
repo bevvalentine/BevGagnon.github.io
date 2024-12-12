@@ -16,6 +16,10 @@ Descriptive and predictive analytics were used to determine GE employee attritio
 Construct a database based on corporate background and organization, analysis, design, database management system, data model, law, ethics, and security. Designed a full database custom-made to the mock company’s requirements.<br><br>
 <I>Enterprise Data Management Architecture and Implementation Plan:</i><br>
 Examined the issues in managing data and information from an enterprise perspective. Explored data management using concepts and techniques for managing the design, development, and maintenance of all the components of enterprise information management. Constructed an EDM architecture and an execution plan.<br><br>
+<I>Environmental Analytics Dashboard:</i><br>
+Designed and developed a user-friendly dashboard for state officials to utilize when tracking flood concerns after storms in the area. Produced the dashboard in Excel and displayed snowstorms, hurricanes, thunderstorms, and other weather anomalies and their effects on the State of New Hampshire. Produced a data pamphlet with explanations for the public.<br><br>
+<I>Hightower Global Solutions - Project Management Plan:</i><br>
+Produced a full project management plan including project charter, timelines, interest grid, traceability matrix, stakeholder analysis and concerns, risk register, and project planning.<br><br>
 
 <b>Education</b><br><br>
 Master of Science in Data Analytics<br> Southern New Hampshire University, Manchester, NH<br><br>
@@ -23,7 +27,7 @@ Bachelor of Science in Advertising<br> Emerson College, Boston, MA<br><br>
 Associate of Arts in Communications<br> Bristol Community College, Fall River, MA<br><br>
 Associate of Arts in Art<br> Bristol Community College, Fall River, MA<br><br><br>
 
-<b>Skills</b><br>
+<b>Core Competencies & Certifications</b><br>
 EPIC (Hyperspace & Willow) | REDCap (Data Management for Clinical Research) | Excel (Adv.) | Tableau | SQL | Python | Looker/Snowflake | Rattle (R) | Power BI | Visio | MS Office<br><br>
 
 <b>Professional Experience</b><br><br>
