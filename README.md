@@ -13,7 +13,7 @@ Created a standard operating procedure and SIM ticketing process for customer tr
 <b>Academic Projects</b><br><br>
 <I><a href="https://youtu.be/OBY_BuBRvs">Capstone: GE Employee Attrition Prediction Analytics:</i><br></a>
 Descriptive and predictive analytics were used to determine GE employee attrition likelihood. Explored data with Rattle, built the predictive model, and evaluated the results. Simplified coding and debugged to be exchangeable and producible. The team presented the final code and predictive models to the company’s stakeholders for assessment.<be>
-<a href="DAT-690 9-3 Capstone Component Three  - Gagnon.docx">Page to download report and click "View Raw"</a><br><br>
+<a href="[DAT-690 9-3 Capstone Component Three  - Gagnon.docx](https://github.com/bevvalentine/Capstone-GE-Employee-Attrition-Prediction-Analytics/blob/e1275a9f1881ea544c6118288d041f3527e77937/DAT-690%209-3%20Capstone%20Component%20Three%20%20-%20Gagnon.docx)">Page to download report and click "View Raw"</a><br><br>
 
 <I>Law, Ethics & Security Plan/Database Management System:</i><br>
 Construct a database based on corporate background and organization, analysis, design, database management system, data model, law, ethics, and security. Designed a full database custom-made to the mock company’s requirements.<br><br>
