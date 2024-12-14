@@ -10,7 +10,7 @@ Building a forecast accuracy dashboard. Use analytics to recommend forecast data
 Created a standard operating procedure and SIM ticketing process for customer transfers. The SOP has a value stream map detailing each step in the process and a service level agreement (SLA) for each process based on the severity of the transfer request. The process was seamlessly introduced and handed off to the team to continue the project.<br><br>
 
 <b>Academic Projects</b><br><br>
-<I>Capstone: GE Employee Attrition Prediction Analytics:</i><br>
+<I><a href="https://youtu.be/OBY_BuBRvs">Capstone: GE Employee Attrition Prediction Analytics:</i><br></a>
 Descriptive and predictive analytics were used to determine GE employee attrition likelihood. Explored data with Rattle, built the predictive model, and evaluated the results. Simplified coding and debugged to be exchangeable and producible. The team presented the final code and predictive models to the company’s stakeholders for assessment.<br><br>
 <I>Law, Ethics & Security Plan/Database Management System:</i><br>
 Construct a database based on corporate background and organization, analysis, design, database management system, data model, law, ethics, and security. Designed a full database custom-made to the mock company’s requirements.<br><br>
