@@ -15,10 +15,11 @@ Created a standard operating procedure and SIM ticketing process for customer tr
 Descriptive and predictive analytics were used to determine GE employee attrition likelihood. Explored data with Rattle, built the predictive model, and evaluated the results. Simplified coding and debugged to be exchangeable and producible. The team presented the final code and predictive models to the company’s stakeholders for assessment.<be>
 <a href="https://github.com/bevvalentine/Capstone-GE-Employee-Attrition-Prediction-Analytics/blob/e1275a9f1881ea544c6118288d041f3527e77937/DAT-690%209-3%20Capstone%20Component%20Three%20%20-%20Gagnon.docx">Page to download report and click "View Raw"</a><br><br>
 
-<I>Law, Ethics & Security Plan/Database Management System:</i><br>
+<I><a href="https://github.com/bevvalentine/Database_Management">Law, Ethics & Security Plan/Database Management System:</a></i><br>
 Construct a database based on corporate background and organization, analysis, design, database management system, data model, law, ethics, and security. Designed a full database custom-made to the mock company’s requirements.<br><br>
-<I>Enterprise Data Management Architecture and Implementation Plan:</i><br>
-Examined the issues in managing data and information from an enterprise perspective. Explored data management using concepts and techniques for managing the design, development, and maintenance of all the components of enterprise information management. Constructed an EDM architecture and an execution plan.<br><be>
+
+<I><a href="https://github.com/bevvalentine/EDM">Enterprise Data Management Architecture and Implementation Plan:</a></I><br>
+Examined the issues in managing data and information from an enterprise perspective. Explored data management using concepts and techniques for managing the design, development, and maintenance of all the components of enterprise information management. Constructed an EDM architecture and an execution plan.<br><br>
 
 <I>Environmental Analytics Dashboard:</i><br>
 Designed and developed a user-friendly dashboard for state officials to utilize when tracking flood concerns after storms in the area. Produced the dashboard in Excel and displayed snowstorms, hurricanes, thunderstorms, and other weather anomalies and their effects on the State of New Hampshire. Produced a data pamphlet with explanations for the public.<br><br>
