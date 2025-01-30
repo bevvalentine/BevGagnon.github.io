@@ -24,7 +24,7 @@ Examined the issues in managing data and information from an enterprise perspect
 <I><a href="https://github.com/bevvalentine/Environmental-Analytics-Dashboard">Environmental Analytics Dashboard:</a></i><br>
 Designed and developed a user-friendly dashboard for state officials to utilize when tracking flood concerns after storms in the area. Produced the dashboard in Excel and displayed snowstorms, hurricanes, thunderstorms, and other weather anomalies and their effects on the State of New Hampshire. Produced a data pamphlet with explanations for the public.<br><be>
 
-<I>a href="https://github.com/bevvalentine/Project-Management-Plan">Hightower Global Solutions - Project Management Plan:</a></i><br>
+<I><a href="https://github.com/bevvalentine/Project-Management-Plan">Hightower Global Solutions - Project Management Plan:</a></i><br>
 Produced a full project management plan including project charter, timelines, interest grid, traceability matrix, stakeholder analysis and concerns, risk register, and project planning.<br><br>
 
 <b>Education</b><br><br>
